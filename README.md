@@ -25,8 +25,12 @@
         <div class="profile-photo">
             <img src="images/JonBarron.jpg" alt="Profile Photo">
         </div>
-        <div class="research">
-            <h2>Research</h2>
+        <div class="Education">
+            <h2>Education</h2>
+            <p>I'm interested in computer vision, deep lyyyyearning, generative AI, and image processing. My research primarily focuses on inferring the physical aspects of the world such as shape, motion, color, and light from images, often utilizing radiance fields.</p>
+        </div>
+        <div class="Work Experience">
+            <h2>Work Experience</h2>
             <p>I'm interested in computer vision, deep lyyyyearning, generative AI, and image processing. My research primarily focuses on inferring the physical aspects of the world such as shape, motion, color, and light from images, often utilizing radiance fields.</p>
         </div>
     </div>
