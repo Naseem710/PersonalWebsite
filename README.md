@@ -13,10 +13,10 @@
         <div class="profile">
             <h1>Naseem Mohsin</h1>
             <p>I'm an Information Technology student at <a href="https://www.yorku.ca/">York University</a> in Onatrio, Canada. I aspire to work in the IT industry and get a job in silicon valley in hopes to help revolutionize the world in a positive manner.</p>
-            <p>I am currently working a part-time job at <a href="https://blnts.com//nerf">Bluenotes</a>.</p>
+            <p>I am currently working a part-time job at <a href="https://blnts.com//nerf">Bluenote's</a>. Bluenote's is a clothing store owned by Thrifty's. I have been working there since September 2023. My position is sales associate and my purpose is to help customers find what they are looking for.</p>
             <p>
-                <a href="mailto:jonbarron@gmail.com">Email</a> / 
-                <a href="data/JonBarron-CV.pdf">CV</a> / 
+                <a href="mailto:Naseemmohsin710@gmail.com">Email</a> / 
+                <a href="data/Retail_Resume.pdf">CV</a> / 
                 <a href="data/JonBarron-bio.txt">Bio</a> / 
                 <a href="https://www.threads.net/@Naseem_710">Threads</a> / 
                 <a href="https://github.com/Naseem710/">Github</a>
