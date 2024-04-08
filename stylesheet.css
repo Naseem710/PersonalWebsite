@@ -1,0 +1,20 @@
+/* Define CSS variables at the top */
+:root {
+    --link-color: #1772d0;
+    --hover-color: #f09228;
+}
+
+a {
+    color: var(--link-color);
+    text-decoration: none;
+}
+
+a:focus,
+a:hover {
+    color: var(--hover-color);
+    text-decoration: underline; /* Adding underline on hover for clarity */
+}
+
+a:active {
+    color: darken(var(--hover-color), 10%); /* Darken the hover color for active state */
+}
